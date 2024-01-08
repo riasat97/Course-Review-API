@@ -1,9 +1,10 @@
 # Course Review API
 
-### Objective: Develop a Node.js Express application with TypeScript as the programming language, integrating MongoDB with Mongoose for course review management. Here data integrity is ensured through validation using Zod. This application is developed using Node.js, Express, MongoDB, and TypeScript.
+### Objective: Develop a Node.js Express application with TypeScript as the programming language, Authentication-Authorization and integrating MongoDB with Mongoose for course review management. Here data integrity is ensured through validation using Zod. This application is developed using Node.js, Express, MongoDB, and TypeScript.
 
 ## Features
 
+- User authentication, authorization, and user-related information
 - Course Management: Create, read, dynamic or partial update, and delete courses.
 - Review System: Add reviews to courses.
 - Pagination and Filtering: Get paginated and filtered lists of courses.
